@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-12-09T00:11:21" hostname="yong-Lenovo-H500s" time="0.652">
+  <properties/>
+  <testcase name="givenLastTurnWasXWhenNextPlayerThenO" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.541"/>
+  <testcase name="whenYOutsideBoardThenRuntimeException" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.018"/>
+  <testcase name="whenPlayAndTopBottomDiagonalLineThenWinner" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.045"/>
+  <testcase name="whenPlayAndWholeHorizontalLineThenWinner" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.006"/>
+  <testcase name="givenFirstTurnWhenNextPlayerThenX" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.001"/>
+  <testcase name="whenXOutsideBoardThenRuntimeException" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.001"/>
+  <testcase name="whenPlayAndBottomTopDiagonalLineThenWinner" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.004"/>
+  <testcase name="whenOccupiedThenRuntimeException" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.002"/>
+  <testcase name="whenAllBoxesAreFilledThenDraw" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.005"/>
+  <testcase name="whenPlayAndWholeVerticalLineThenWinner" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.003"/>
+  <testcase name="whenPlayThenNoWinner" classname="com.packtpublishing.tddjava.ch03tictactoe.TicTacToeSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
